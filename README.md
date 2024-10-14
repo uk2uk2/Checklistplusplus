@@ -11,6 +11,7 @@ Different Views | Toggle Color Coding or a Simplified view of tasks & completion
 ![image](https://github.com/user-attachments/assets/5f7ebe6c-9a5f-4f5f-9cc7-28684b146a26)  
 ![image](https://github.com/user-attachments/assets/1ef3c52d-fc71-453a-af50-8e802eb73d3d)
 ![image](https://github.com/user-attachments/assets/f866122d-00c1-4fad-9aff-4cf34361585b)
+![image](https://github.com/user-attachments/assets/cd157d1c-68aa-4a36-b198-27a4b93653bc)
 
 
 
