@@ -1,7 +1,9 @@
 # Checklist ++
 A terminal based checklist tool
 
-![image](https://github.com/user-attachments/assets/a4f1774e-2c3f-4e7c-b995-95bbeb3f0977)
+![image](https://github.com/user-attachments/assets/99f10f5e-5cea-4475-a29b-aefb27ea4f9d)
+
+![image](https://github.com/user-attachments/assets/e45cc5ef-b037-466a-8ee0-890c69697398)
 
 
 
