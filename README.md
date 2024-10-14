@@ -5,6 +5,9 @@ A terminal based checklist tool
 
 ![image](https://github.com/user-attachments/assets/4bb8e28d-37a9-4d7f-a927-6b71f4b8e898)
 
+
+Different Views | Toggle Color Coding or a Simplified view of tasks & cmpletion status
+
 ![image](https://github.com/user-attachments/assets/5f7ebe6c-9a5f-4f5f-9cc7-28684b146a26)  ![image](https://github.com/user-attachments/assets/1ef3c52d-fc71-453a-af50-8e802eb73d3d) ![image](https://github.com/user-attachments/assets/f866122d-00c1-4fad-9aff-4cf34361585b)
 
 
