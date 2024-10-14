@@ -1,16 +1,9 @@
 # Checklist ++
 A terminal based checklist tool
 
+![image](https://github.com/user-attachments/assets/a4f1774e-2c3f-4e7c-b995-95bbeb3f0977)
 
---  .+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+. 
--- (      ____ _               _    _ _     _                    )
---  )    / ___| |__   ___  ___| | _| (_)___| |_  _     _        ( 
--- (    | |   | '_ \ / _ \/ __| |/ / | / __| __|| |_ _| |_       )
---  )   | |___| | | |  __/ (__|   <| | \__ \ ||_   _|_   _|     ( 
--- (     \____|_| |_|\___|\___|_|\_\_|_|___/\__||_|   |_|        )
---  )                                                           ( 
--- (                                                             )
---  "+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+"+.+" 
+
 
 
 Checklist++ is a command-line productivity tool designed to help users manage tasks efficiently within the terminal environment.
