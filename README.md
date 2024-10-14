@@ -1,2 +1,2 @@
-# Checklist-
+# Checklist ++
 A terminal based checklist tool
