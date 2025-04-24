@@ -1,4 +1,4 @@
-# Kando/Checklist ++
+# KanDo / Checklist ++
 A terminal based checklist tool
 
 
