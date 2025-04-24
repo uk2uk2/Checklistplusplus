@@ -1,9 +1,10 @@
 # Checklist ++
 A terminal based checklist tool
 
-![image](https://github.com/user-attachments/assets/5ed4f190-e2ae-4341-8b0e-774f9ea8fb67)
 
-![image](https://github.com/user-attachments/assets/4bb8e28d-37a9-4d7f-a927-6b71f4b8e898)
+
+![image](https://github.com/user-attachments/assets/4bb8e28d-37a9-4d7f-a927-6b71f4b8e898)![Screenshot 2025-04-24 at 4 42 31 PM](https://github.com/user-attachments/assets/caace91a-576d-4cde-96d4-cb3892503b3f)
+
 
 
 Different Views | Toggle Color Coding or a Simplified view of tasks & completion status
